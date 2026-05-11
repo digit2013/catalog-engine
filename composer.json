@@ -1,0 +1,12 @@
+{
+  "name": "yourorg/catalog-engine",
+  "description": "PHP content catalog engine",
+  "require": {
+    "php": "^8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
